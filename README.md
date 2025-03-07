@@ -54,7 +54,9 @@ python emotionDetect.py
 
 ## 繁體中文
 
-### 預先準備
+使用DeepFace偵測臉部情緒並透過Arduino控制LED進行互動
+
+### 前置作業
 確保已安裝 Python（本專案基於 Python 3.10）。
 
 ### 執行步驟
